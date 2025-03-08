@@ -1,5 +1,5 @@
-import Navbar from "./components/navbar/navbar"
-import Hero from "./components/hero/hero"
+import Navbar from "./components/navbar/Navbar"
+import Hero from "./components/hero/Hero"
 import Background from './assets/Fondo.png'
 
 function App() {
